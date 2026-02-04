@@ -1,4 +1,4 @@
-# super-robot
+# Autonomous Robot Simulation
 An autonomous navigation system for the Husky robot, built on ROS (Robot Operating System) and Gazebo. This project implements a wall-following algorithm to navigate unstructured environments by processing real-time LIDAR sensor data and incorporates real time pid tuning.
 
 ## 🛠 Key Features
