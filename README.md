@@ -1,5 +1,5 @@
 # Autonomous Robot Simulation
-An autonomous navigation system for the Husky robot, built on ROS (Robot Operating System) and Gazebo. This project implements a wall-following algorithm to navigate unstructured environments by processing real-time LIDAR sensor data and incorporates real time pid tuning.
+An autonomous navigation system for a Husky UGV, built on ROS (Robot Operating System) using the publisher-subscriber model and tested with world models using Gazebo. This project implements a wall-following algorithm to navigate unstructured environments by processing real-time LIDAR sensor data and incorporates the ability for real-time PID tuning.
 
 ## 🛠 Key Features
 
